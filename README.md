@@ -13,7 +13,7 @@ The Analysis of Algorithms Lab, as prescribed by Rajasthan Technical University 
 - To compare different algorithms solving the same problem to understand their relative efficiencies.
 
 ### Core Topics Covered
--1. Sorting Algorithms Program
+1. Sorting Algorithms Program
 Description: Implements and analyzes various sorting algorithms such as Bubble Sort, Insertion Sort, Merge Sort.
 Concepts: Time complexity, space complexity, stability, and efficiency.
 
