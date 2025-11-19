@@ -2,6 +2,8 @@
 ![image](https://github.com/user-attachments/assets/73a1f027-7864-48ed-b306-122936a4c6e0)
 ![image](https://github.com/user-attachments/assets/20de74fa-4b1f-421a-b38e-27511783918e)
 ![image](https://github.com/user-attachments/assets/50f73ffc-8c49-47f0-8e0e-34d4de7f332d)
+<img width="309" height="383" alt="image" src="https://github.com/user-attachments/assets/a4b1c8f8-0968-4b6b-9185-316197b39b1f" />
+
 ## Introduction to RTU Analysis of Algorithms Lab
 The Analysis of Algorithms Lab, as prescribed by Rajasthan Technical University (RTU), is designed to provide students with practical exposure to fundamental algorithmic techniques and their performance evaluation. This lab focuses on implementing classical algorithms, primarily sorting and searching methods, and analyzing their efficiency in terms of time and space complexity.
 
